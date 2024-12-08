@@ -22,6 +22,8 @@ For analytics or crash reporting tools (e.g., Google Analytics, Firebase), which
 4. Data Security
 We use encryption and secure protocols to protect your data and prevent unauthorized access.
 
+Data Deletion: "You can request data deletion by contacting us at thanhns.dev@icloud.com"
+
 5. User Rights
 You have the following rights:
 
