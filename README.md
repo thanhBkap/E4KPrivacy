@@ -32,16 +32,16 @@ To debug and improve app functionality.
 
 + Access and Review: You can request details of the data we have collected by contacting us at thanhns.dev@icloud.com.
 + Data Deletion: You can request data deletion by contacting us at thanhns.dev@icloud.com at any time.
-
+   
 6. Children's Privacy
 
 - Our app is designed for children, and we comply with applicable privacy laws. We do not collect personal information from children without parental consent.
 
-8. Updates to This Policy
-   
+7. Updates to This Policy
+
 - We may update this policy periodically. You will be notified of changes through the app or our website.
 
-10. Contact Us
+8. Contact Us
 
 - If you have any questions about this Privacy Policy, please contact us:
 
